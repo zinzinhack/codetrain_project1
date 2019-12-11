@@ -1,0 +1,82 @@
+.logo_size{
+	width: 260px;
+	height: 79px;
+}
+.white_space{
+
+	height: 30px;
+}
+.gh_space{
+	margin-right: 15px;
+}
+.kenya_space{
+	margin-right: 15px;
+}
+.niger_space{
+	margin-right: 15px;
+}
+ .navbar-default {
+    background-color: #ffff;
+    
+}
+
+.navbar-default {
+    background-color: #ffff;
+
+	
+} 
+
+	.container-fluid {
+		padding-right: 15px;
+		padding-left: 15px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	.navbar {
+		position: relative;
+		min-height: 50px;
+		margin-bottom: 20px;
+		border: #c1363600;
+	}
+
+	.heading{
+		margin:10px 0px 5px 0px
+	}
+	img {
+    height: auto;
+    max-width: 100%;
+}
+
+.footer-color{
+	background-color:#070780;
+	margin-top:80px;
+}
+.text-center{
+	text-align: center;
+}
+.space-left{
+	padding-left: 120px;
+}
+.t-color{
+	color: yellow;
+	padding-left: 4rem;
+}
+h3{
+	color: #ffff;
+}
+
+.t-center{
+	text-align: center;
+	padding: 0rem 12rem 0rem 0rem;
+	color: #ffff;
+}
+.t-center2{
+	text-align: center;
+	padding: 0rem 15rem 0rem 0rem;
+	color: #ffff;
+}
+.t-center3{
+	text-align: center;
+	padding: 0rem 18rem 0rem 0rem;
+	color: #ffff;
+}
